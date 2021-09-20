@@ -6,7 +6,7 @@
 windows + . - aparece os emotions
 -->
 - 😜 Sou Arquiteto, Analista, Desenvolvedor FullStack
-- 🌱 Estudadno:
+- 🌱 Estudano:
         - NodeJS
         - VueJS
         - TypeScript
